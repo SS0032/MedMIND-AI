@@ -1,12 +1,16 @@
 # 🧠 MedMIND-AI
 
-**MedMIND-AI** is an AI-powered mental health assistant that provides supportive conversations, answers medical queries using document-based knowledge (RAG), and triggers emergency alerts when crisis signals are detected.
+AI-powered mental health assistant with conversational support, PDF-based medical knowledge (RAG), and automated crisis alert system.
 
-The system integrates **Google Gemini**, **LangChain**, **FAISS**, **Streamlit**, and **Twilio** to deliver a real-time conversational AI experience with safety mechanisms for mental health crises.
+## 🌐 Live Application
+
+Try the deployed application here:
+
+👉 **[https://YOUR_RENDER_LINK.onrender.com](https://medmind-ai.onrender.com/)**
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 ## 🤖 AI Mental Health Chatbot
 
