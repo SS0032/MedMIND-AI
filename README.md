@@ -6,7 +6,7 @@ AI-powered mental health assistant with conversational support, PDF-based medica
 
 Try the deployed application here:
 
-👉 **[https://YOUR_RENDER_LINK.onrender.com](https://medmind-ai.onrender.com/)**
+👉 **[https://medmind-ai.onrender.com](https://medmind-ai.onrender.com/)**
 
 ---
 
