@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+
+langchain==0.3.7
+langchain-core==0.3.21
+langchain-community==0.3.7
+
+langchain-google-genai>=2.0.0
+langgraph==0.2.34
+
+faiss-cpu
+sentence-transformers
+pypdf
+
+twilio
